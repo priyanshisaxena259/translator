@@ -15,6 +15,7 @@ A simple Python-based language translator with a Tkinter interface that allows u
 1. Clone the Repository: Clone this repository to your local machine using Git.
   ```bash
     git clone https://github.com/priyanshisaxena259/translator.git
+    cd translator
 ```
 2. Install Required Packages: Make sure Python is installed, then install dependencies:
    ```bash
