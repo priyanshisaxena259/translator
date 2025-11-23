@@ -32,10 +32,10 @@ To test the translator:
 4. Click translate.
 5. Verify that the translated text appears in the Dest Text box. 
 # Screenshots
- # App Interface
+ # 1. App Interface
    <img width="627" height="915" alt="translator" src="https://github.com/user-attachments/assets/6551b221-717d-44a8-b629-84c0a242b5b3" />
 
- # Example: English to Hindi
+ # 2. Example: English to Hindi
    <img width="627" height="915" alt="eng-hin example" src="https://github.com/user-attachments/assets/f8d26270-926d-4df2-92b9-ee71c98e56b9" />
   
 
