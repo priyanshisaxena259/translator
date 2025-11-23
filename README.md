@@ -2,15 +2,15 @@
 # Overview
 A simple Python-based language translator with a Tkinter interface that allows users to translate text between multiple languages.
 # Features
-1. Translate text between 100+ supported languages
-2. Simple and clean Tkinter GUI
-3. Fast translation using deep-translator's GoogleTranslator
+* Translate text between 100+ supported languages.
+* Simple and clean Tkinter GUI.
+* Fast translation using deep-translator's GoogleTranslator.
 # Technologies/Tools Used
-1. Python 3.14
-2. Tkinter(GUI)
-3. deep-translator library
-4. ttk(Themed Tkinter Widgets)
-5. VS Code
+* Python 3.14
+* Tkinter(GUI)
+* deep-translator library
+* ttk(Themed Tkinter Widgets)
+* VS Code
 # Steps to install & run the project
 1. Clone the Repository: Clone this repository to your local machine using Git.
   ```bash
